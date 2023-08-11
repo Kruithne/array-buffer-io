@@ -1,0 +1,16 @@
+{
+  "name": "array-buffer-io",
+  "type": "module",
+  "version": "1.0.0",
+  "module": "./index.ts",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "bun-types": "^0.5.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "mitata": "^0.1.6"
+  }
+}
